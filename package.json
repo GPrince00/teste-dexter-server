@@ -7,6 +7,6 @@
   "dependencies": {
     "helmet": "^3.23.3",
     "parse-dashboard": "^5.4.0",
-    "parse-server": "^7.1.0"
+    "parse-server": "^7.3.0"
   }
 }
